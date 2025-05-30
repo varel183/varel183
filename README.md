@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=varel183&color=blue)
 <!--
 **varel183/varel183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
